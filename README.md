@@ -1,10 +1,22 @@
-# RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+# 🐟 Meu Aquário 🐟
 
 ## Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+**Meu Aquário** é um espaço digital para entusiastas do aquarismo compartilharem suas experiências, trocarem conhecimentos e conferir dicas sobre a manutenção e criação de aquários. A proposta é criar uma comunidade interativa que una novatos e veteranos do hobby.
+
+Este repositório reúne toda a documentação do projeto referente aos padrões de projeto utilizados no sistema, na qual faz parte da entrega 03 da matéria de Arquitetura e Desenho de Software do período 2025.1.
+
+## 👥 Contribuidor(es)
+  
+<table style="width: 100%;">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Brenno-Silva01">
+        <img style="border-radius: 50%;" src="https://github.com/Brenno-Silva01.png" width="100px;" alt="Imagem de Brenno Oliveira"/><br />
+        <sub><b>Brenno Oliveira</b></sub>
+      </a>
+    </td>
+</table>
 
 ## Tecnologia
 
@@ -12,7 +24,7 @@ A geração do site estático é realizada utilizando o [docsify](https://docsif
 
 ```shell
 "Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+``` 
 
 ### Instalando o docsify
 
