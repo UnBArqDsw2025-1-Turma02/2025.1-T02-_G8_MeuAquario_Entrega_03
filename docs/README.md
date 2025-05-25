@@ -1,30 +1,27 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_03)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T02)_G1_JogoEducacional_Entrega_03*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Projeto - Meu Aquário
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 08<br>
 **Entrega**: 03<br>
 
-## Alunos
+## Aluno(s)
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0085045  |  Brenno da Silva Oliveira |
+<table style="width: 100%;">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Brenno-Silva01">
+        <img style="border-radius: 50%;" src="https://github.com/Brenno-Silva01.png" width="100px;" alt="Imagem de Brenno Oliveira"/><br />
+        <sub><b>Brenno da Silva</b></sub>
+      </a>
+    </td>
+</table>
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+**Meu Aquário** é um espaço digital para entusiastas do aquarismo compartilharem suas experiências, trocarem conhecimentos e conferir dicas sobre a manutenção e criação de aquários. A proposta é criar uma comunidade interativa que una novatos e veteranos do hobby.
+
+Este repositório reúne toda a documentação do projeto referente aos padrões de projetos utilizados no sistema.
 
 ## Screenshots da Terceira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
@@ -39,3 +36,8 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de Versão
+| Versão | Alteração | Responsável | Data       |
+|------|--------|-----------|---------|
+| 1.0 | Atualizando informações iniciais  | [Brenno Silva](https://github.com/brenno-silva01) | 24/05/2025 | 
